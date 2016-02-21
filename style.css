@@ -1,0 +1,33 @@
+<style>
+ #header {
+      background-color:orange;
+      color:white;
+      text-align:center;
+      padding:5px;
+ }
+#nav {
+    line-height:30px;
+    background-color:orange;
+    color:white;
+    height 100px;
+    width: 1200px;
+    float:center;
+    padding:5px;
+        }
+ #section {
+      width:1350px;
+      float: left;
+      padding:10px;
+ }
+#footer {
+    background-color:orange;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+body {
+     background-image: url("steel2.jpg")
+}
+}
+     </style>
